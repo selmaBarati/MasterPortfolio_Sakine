@@ -1,0 +1,15 @@
+.experience-accord {
+  margin: 50px;
+  direction: rtl;
+}
+
+.accord-panel {
+  font-family: "Google Sans Regular";
+  direction: rtl;
+}
+
+@media (max-width: 768px) {
+  .experience-accord {
+    margin: 20px;
+  }
+}
